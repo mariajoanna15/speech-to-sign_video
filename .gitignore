@@ -1,0 +1,20 @@
+# Large data & model files
+*.npy
+*.pth
+*.pt
+*.pkl
+*.h5
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS files (Mac specific)
+.DS_Store
