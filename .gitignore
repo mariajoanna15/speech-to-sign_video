@@ -18,3 +18,9 @@ __pycache__/
 
 # OS files (Mac specific)
 .DS_Store
+# 3D model files (can be large)
+*.glb
+*.gltf
+
+# Checkpoints folder
+checkpoints/
